@@ -8,7 +8,7 @@
 
 ## Develop
 
-Use Node.js 22.23.4 (selected by `.node-version`) and npm 10 or later.
+Use Node.js 22.23.5 (selected by `.node-version`) and npm 10 or later.
 
     % npm i
     % npm start
